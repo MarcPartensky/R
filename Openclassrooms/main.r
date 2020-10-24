@@ -7,3 +7,10 @@ objects()
 rm(x)
 length(X)
 mode(X)
+
+rien = NULL
+temperature = 23.5
+pluie = TRUE
+tempete = F
+station = 'Paris'
+ville = "Corbeil-Essonnes"
