@@ -1,4 +1,5 @@
 #!/usr/bin/env Rscript
+install.packages('languageserver')
 y <- c("M","F","F","M","F")
 y
 # [1] "M" "F" "F" "M" "F"
@@ -16,6 +17,7 @@ levels(yf) = c("femme", "homme")
 yf
 
 salto = c(1:5, 5:1)
+
 salto
 
 salto.f = as.factor(salto)
