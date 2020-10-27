@@ -1,8 +1,0 @@
-y <- c("M","F","F","M","F")
-y
-# [1] "M" "F" "F" "M" "F"
-
-yf <- factor(y)
-yf
-# [1] M F F M F
-# Levels: F M
